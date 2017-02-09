@@ -1,2 +1,3 @@
-# misc_go_creations
-This is where I put random Go snippets that I've written for fun
+# Miscellaneous Go Creations
+
+I like doing coding challenges on hackerrank and r/dailyprogrammer. I put some of my favorite go challenges here.
